@@ -1,7 +1,6 @@
 # EFI-Lenovo
 Lenovo Ideapad 320 15IKB EFI
 
-# EFI-IDEAPAD-330-15IKB-OPENCORE
 <img src="assets/macos-ventura.png">
 
 :information_source: **The current version is fully macOS compatible based on my laptop hardware.**
