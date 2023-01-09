@@ -68,4 +68,4 @@ Only AirDrop and Handoff are not working since the Intel card are not fully comp
 
 [**Dortania**](https://dortania.github.io/getting-started/)
 
-[**Milad Tahanian**]
+[**Milad Tahanian**](https://github.com/mtahanian)
