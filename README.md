@@ -1,7 +1,7 @@
 # EFI-Lenovo
 Lenovo Ideapad 320 15IKB EFI
 
-<img src="assets/macos-ventura.png">
+<img src="assets/about.png">
 
 :information_source: **The current version is fully macOS compatible based on my laptop hardware.**
 OpenCore, drivers, and kexts are always up to date!
@@ -17,7 +17,7 @@ OpenCore, drivers, and kexts are always up to date!
 This is not a guide, please refer to [Dortania](https://dortania.github.io/getting-started) before doing anything. I am not responsible for any damage. This OpenCore configuration is optimized for my specific hardware, so please use it only as a reference or if you happen to have the same or similar hardware.
 
 <br/>
-
+    
 ## :computer: Hardware:
 
 | **Category** | **Component**                         |
