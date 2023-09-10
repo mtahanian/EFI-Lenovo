@@ -1,12 +1,10 @@
 # EFI-Lenovo
-Lenovo Ideapad 320 15IKB EFI
-
-<img src="assets/about.png">
+Lenovo Ideapad 320 15IKB (81BG Type) EFI
 
 :information_source: **The current version is fully macOS compatible based on my laptop hardware.**
 OpenCore, drivers, and kexts are always up to date!
 
-:information_source: The EFI's have been tested on Ventura.
+:information_source: The EFI's have been tested on Ventura 13.5.0 and Monterey 12.6.3.
 
 :information_source: The macOS Ventura is only supported on the OpenCore 0.8.3 or later releases
 
@@ -22,7 +20,7 @@ This is not a guide, please refer to [Dortania](https://dortania.github.io/getti
 
 | **Category** | **Component**                         |
 | ------------ | ------------------------------------- |
-| **CPU**      | 1.8GHz Intel Core i5-8250u            |
+| **CPU**      | 1.6GHz Intel Core i5-8250U            |
 | **GPU**      | Intel UHD 620                         |
 | **RAM**      | 12GB (4GB non-removable) 2133MHz DDR4 |
 | **SSD**      | 256GB SATA SSD (Samsung PRO 850)      |
@@ -54,12 +52,24 @@ This is not a guide, please refer to [Dortania](https://dortania.github.io/getti
 
 Only AirDrop and Handoff are not working since the Intel card are not fully compatible with macOS. To make these things works you need to replace with a native card one, like the Fenvi cards.
 
+For Wifi Connection you can install Heliport.Due to its faster connection and speed I've replaced it with Airport.
+
+For Ethernet you can use USB Ethernets too!
+
 ## BIOS setup:
 
 - Security / Intel Platform Trust Technology - Disabled
 - Security / Intel SGX - Disabled
 - Security / Secure Boot - Disabled
 - Boot / Boot Mode - UEFI
+
+## Images:
+
+:information_source: Hackintosh Setup On VENTURA
+<img src="assets/ventura.png">
+
+:information_source: Setup On Monterey
+<img src="assets/monterey.png">
 
 ## Credits:
 
