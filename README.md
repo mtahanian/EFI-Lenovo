@@ -4,9 +4,7 @@ Lenovo Ideapad 320 15IKB (81BG Type) EFI
 :information_source: **The current version is fully macOS compatible based on my laptop hardware.**
 OpenCore, drivers, and kexts are always up to date!
 
-:information_source: The EFI's have been tested on Ventura 13.5.0 and Monterey 12.6.3.
-
-:information_source: The macOS Ventura is only supported on the OpenCore 0.8.3 or later releases
+:information_source: The EFI's have been tested on Moneterey, Ventura and Sonoma.
 
 <br/>
 
@@ -15,6 +13,15 @@ OpenCore, drivers, and kexts are always up to date!
 This is not a guide, please refer to [Dortania](https://dortania.github.io/getting-started) before doing anything. I am not responsible for any damage. This OpenCore configuration is optimized for my specific hardware, so please use it only as a reference or if you happen to have the same or similar hardware.
 
 <br/>
+
+
+## Images:
+
+|---------------|----------------------------------------|
+| Sonoma        |  [Sonoma](/assets/sonoma.png)     |
+| Ventura       |  [Ventura](/assets/ventura.png)   |
+| Monterey      |  [Monterey](/assets/monterey.png) |
+|--------------------------------------------------------|
     
 ## :computer: Hardware:
 
@@ -25,10 +32,11 @@ This is not a guide, please refer to [Dortania](https://dortania.github.io/getti
 | **RAM**      | 12GB (4GB non-removable) 2133MHz DDR4 |
 | **SSD**      | 256GB SATA SSD (Samsung PRO 850)      |
 | **Display**  | 15,6" 1080p LCD non-touch display     |
-| **Wi-Fi/BT** | Intel Dual Band Wireless-AC 3165      |
+| **Wi-Fi/BT** | Intel Dual Band Wireless-AC 3165 + BT |
 | **Ethernet** | Realtek RTL8111                       |
 | **Audio**    | Realtek ALC230 (layout-id=20)         |
 | **Input**    | PS2 Keyboard & Synptics TrackPad      |
+| ---------------------------------------------------- |
 
 ## :white_check_mark: Working:
 
@@ -63,13 +71,6 @@ For Ethernet you can use USB Ethernets too!
 - Security / Secure Boot - Disabled
 - Boot / Boot Mode - UEFI
 
-## Images:
-
-:information_source: Hackintosh Setup On VENTURA
-<img src="assets/ventura.png">
-
-:information_source: Setup On Monterey
-<img src="assets/monterey.png">
 
 ## Credits:
 
