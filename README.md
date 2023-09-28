@@ -14,13 +14,7 @@ This is not a guide, please refer to [Dortania](https://dortania.github.io/getti
 
 <br/>
 
-
-## Images:
-
-|---------------|-----------------------------------|
-| Sonoma        |  [Sonoma](/assets/sonoma.png)     |
-| Ventura       |  [Ventura](/assets/ventura.png)   |
-| Monterey      |  [Monterey](/assets/monterey.png) |
+<img src="assets/sonoma.png">
     
 ## :computer: Hardware:
 
