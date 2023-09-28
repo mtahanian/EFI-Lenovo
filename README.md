@@ -17,11 +17,10 @@ This is not a guide, please refer to [Dortania](https://dortania.github.io/getti
 
 ## Images:
 
-|---------------|----------------------------------------|
+|---------------|-----------------------------------|
 | Sonoma        |  [Sonoma](/assets/sonoma.png)     |
 | Ventura       |  [Ventura](/assets/ventura.png)   |
 | Monterey      |  [Monterey](/assets/monterey.png) |
-|--------------------------------------------------------|
     
 ## :computer: Hardware:
 
@@ -36,7 +35,6 @@ This is not a guide, please refer to [Dortania](https://dortania.github.io/getti
 | **Ethernet** | Realtek RTL8111                       |
 | **Audio**    | Realtek ALC230 (layout-id=20)         |
 | **Input**    | PS2 Keyboard & Synptics TrackPad      |
-| ---------------------------------------------------- |
 
 ## :white_check_mark: Working:
 
